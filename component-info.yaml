@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: "criteo-dexter/mjaillais"
     backstage.io/techdocs-ref: github:https://github.com/criteo-dexter/mjaillais
+    jenkins.io/github-folder: 'test-cboone-freestyle'
 spec:
   type: website
   lifecycle: experimental
